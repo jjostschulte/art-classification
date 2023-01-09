@@ -1,6 +1,7 @@
 */img/new/*
 .idea/*
-*/img/*
+#*/img/*
+*/old/*
 
 ### Mac-specific ignores ###
 # General
