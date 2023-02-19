@@ -2,6 +2,7 @@
 .idea/*
 #*/img/*
 */old/*
+*img.zip
 
 ### Mac-specific ignores ###
 # General
