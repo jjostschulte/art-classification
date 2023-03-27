@@ -4,7 +4,6 @@
 
 ### Versuch 1: Implementierung einzelner Netze
 [Stil-Netzwerk](https://www.kaggle.com/code/jonasjostschulte/art-style)  
-
 [Decade-Netzwerk](https://www.kaggle.com/code/jonasjostschulte/art-year)
 
 ### Versuch 2: Implementierung eines gemeinsamen Netzwerks
